@@ -12,6 +12,7 @@
     "watch:css": "postcss src/assets/tailwind.css -o src/assets/main.css"
   },
   "dependencies": {
+    "@ant-design/icons": "^5.4.0",
     "antd": "^5.20.1",
     "rc-menu": "^9.15.1",
     "react": "^18.3.1",

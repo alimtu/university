@@ -28,3 +28,23 @@ html {
 ::-webkit-scrollbar-thumb {
   background: #FF0000;
 }
+
+.ant-menu-item {
+  color: white !important;
+  cursor: pointer;
+}
+
+.ant-menu-submenu-title {
+  color: white !important;
+}
+.ant-menu-item.ant-menu-item-only-child {
+color: black !important;
+}
+
+.ant-menu-submenu-popup .ant-menu-submenu-title {
+  color: black !important;
+}
+
+.ant-menu-submenu-arrow {
+  rotate: 180deg !important;
+}
